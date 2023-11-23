@@ -16,7 +16,7 @@ Jogo da memoria, estudo focado em localStorage <br/>
 <br>
 
 <p align="center">
-  <img src="preview.png" width="100%">
+  <img src="/images/preview.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
