@@ -116,7 +116,7 @@ const checkCard = () => {
 const checkEndGame = () => {
     const disabledCard = document.querySelectorAll('.disabled-card');
 
-    if (disabledCard.length === 2) {
+    if (disabledCard.length === 24) {
         newRecord()
     }
 }
