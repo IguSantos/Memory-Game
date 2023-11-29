@@ -1,7 +1,7 @@
 <h1 align="center">Memory Game</h1>
 
 <p align="center">
-Jogo da memoria, estudo focado em localStorage <br/>
+Jogo da memória, estudo focado em localStorage <br/>
 </p>
 
 <p align="center">
